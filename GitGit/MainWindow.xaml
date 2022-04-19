@@ -11,6 +11,7 @@
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="292,200,0,0" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="184,246,0,0" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="513,190,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="438,98,0,0" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>
